@@ -1,4 +1,4 @@
 # esx_skin
 
 ## Requirements
-- [skinchanger](https://github.com/ESX-Org/skinchanger)
+- [skinchanger](https://github.com/dawixeuu/dawixeuu-skin/tree/main/skinchanger)
